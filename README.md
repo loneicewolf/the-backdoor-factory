@@ -1,3 +1,6 @@
+Improved slight grammar in this fork.
+
+
 
 ## New version of BACKDOOR FACTORY being developed, to be released July 2021, only to sponsors! Sponsor here: https://github.com/sponsors/secretsquirrel
 
